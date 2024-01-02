@@ -30,13 +30,9 @@ Notice: git submodules are used so make sure to clone this repository recursivel
 &nbsp;
 #### Rocky Linux/Centos
 
-* boost chrono
+* boost-devel
 
-* boost date-time
-
-* boost filesystem
-
-* boost program-options
+* g++
 
 * openssl-devel
 
