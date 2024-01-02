@@ -20,7 +20,7 @@ function anotherDistr() {
 }
 
 function installDnf() {
-    sudo dnf install boost-devel g++
+    sudo dnf install boost-devel g++ openssl-devel zlib-devel libatomic
 }
 
 function installDeb() {
