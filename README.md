@@ -10,6 +10,8 @@ Notice: git submodules are used so make sure to clone this repository recursivel
 
 ### Dependencies
 
+#### Debian/Ubuntu
+
 * boost chrono
 
 * boost date-time
@@ -23,6 +25,26 @@ Notice: git submodules are used so make sure to clone this repository recursivel
 * zlib1g
 
   (run `dependencies.sh`)
+
+&nbsp;
+&nbsp;
+#### Rocky Linux/Centos
+
+* boost chrono
+
+* boost date-time
+
+* boost filesystem
+
+* boost program-options
+
+* openssl-devel
+
+* zlib-devel
+
+* libatomic
+
+(run dependencies.sh)
 
 ### Building
 
